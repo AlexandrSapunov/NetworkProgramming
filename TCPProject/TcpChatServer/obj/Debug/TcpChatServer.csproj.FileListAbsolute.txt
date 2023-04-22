@@ -1,0 +1,7 @@
+R:\Программы\TCPProject\TcpChatServer\bin\Debug\TcpChatServer.exe.config
+R:\Программы\TCPProject\TcpChatServer\bin\Debug\TcpChatServer.exe
+R:\Программы\TCPProject\TcpChatServer\bin\Debug\TcpChatServer.pdb
+R:\Программы\TCPProject\TcpChatServer\obj\Debug\TcpChatServer.csproj.AssemblyReference.cache
+R:\Программы\TCPProject\TcpChatServer\obj\Debug\TcpChatServer.csproj.CoreCompileInputs.cache
+R:\Программы\TCPProject\TcpChatServer\obj\Debug\TcpChatServer.exe
+R:\Программы\TCPProject\TcpChatServer\obj\Debug\TcpChatServer.pdb
